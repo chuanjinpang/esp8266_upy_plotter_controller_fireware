@@ -9,7 +9,7 @@ https://blog.csdn.net/pcj2007/article/details/117549520?spm=1001.2014.3001.5501
 方案：
 
 esp8266 + micropython + 3d打印机
-
+![image](https://github.com/chuanjinpang/esp8266_upy_plotter_controller_fireware/blob/main/svg_gcode_sample/machine.png)
 
 
 技术实现：
@@ -66,7 +66,7 @@ def cxy_run_one_gcode(cxy,sz,gp,line):
 
 代码放github供大家参考：https://github.com/chuanjinpang/esp8266_upy_plotter_controller_fireware
 
-
+![image](https://github.com/chuanjinpang/esp8266_upy_plotter_controller_fireware/blob/main/svg_gcode_sample/hlw-draw.png)
 
 
 https://www.bilibili.com/video/bv1254y137xn
